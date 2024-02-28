@@ -1,2 +1,4 @@
-package co.edu.uniquindio.proyecto.enums;public enum TipoProducto {
+package co.edu.uniquindio.proyecto.enums;
+
+public enum TipoProducto {
 }
